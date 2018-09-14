@@ -18,13 +18,11 @@ SLACK_CHANNEL=<Slack channel name (without the leading #) linked with the incomi
 ```
 
 7. Install `docker` and `docker-compose` from https://docs.docker.com/install/
-8. Run the following command in the terminal:
+8. Run the following command in the terminal. It will build the image and start the app using `docker-compose`.
 
 ```
 docker-compose up -d
 ```
-
-It will build the image and start the app using `docker-compose`.
 
 9. Open your web browser and navigate to http://localhost:3000/messages
 
