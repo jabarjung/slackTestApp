@@ -1,6 +1,6 @@
 # Test App to test functionality with Slack API
 
-It is a app to demonstrate the Slack messaging integration.
+It's an app to demonstrate the Slack messaging integration.
 
 ## How to run it?
 
