@@ -25,6 +25,7 @@ docker-compose up -d
 ```
 
 It will build the image and start the app using `docker-compose`.
+
 9. Open your web browser and navigate to http://localhost:3000/messages
 
 ## Author
