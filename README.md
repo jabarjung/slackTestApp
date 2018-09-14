@@ -1,6 +1,6 @@
 # Test App to test functionality with Slack API
 
-It's an app to demonstrate the Slack messaging integration.
+It's an app to demonstrate the Slack messaging integration. Here is how it works? First a user is selected from the dropdown menu (under whose name the message will be sent). Type the message in the box and click 'Send Message' button. The message will be delivered to the Slack channel you set it up with.
 
 ## How to run it?
 
