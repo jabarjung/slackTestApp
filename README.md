@@ -28,4 +28,4 @@ docker-compose up -d
 
 ## Author
 
-* **JabarJung Sandhu**
+* **Jabarjung Sandhu**
